@@ -1,47 +1,27 @@
 <resources>
-    <string name="app_name">ShieldChat</string>
-    <string name="app_subtitle">Decentralized &amp; Encrypted</string>
-    
+    <string name="app_name">ChatApp</string>
+
     <!-- Auth -->
     <string name="login_title">Log In</string>
     <string name="sign_up_title">Create Account</string>
-    <string name="sign_up_subtitle">Get your secure cryptographic chat keys</string>
+    <string name="sign_up_subtitle">Set up your chat profile</string>
     <string name="email_label">Email Address</string>
     <string name="password_label">Password</string>
     <string name="full_name_label">Full Name</string>
     <string name="confirm_password_label">Confirm Password</string>
-    <string name="link_create_account">New to ShieldChat? Create account</string>
+    <string name="link_create_account">New here? Create account</string>
     <string name="link_login">Already registered? Log In</string>
 
     <!-- Chat List -->
-    <string name="header_pinned_chats">PINNED CHATS</string>
     <string name="header_all_messages">ALL MESSAGES</string>
     <string name="action_new_chat">New Chat</string>
-    <string name="action_new_group">New Group</string>
     <string name="search_hint">Search conversations…</string>
 
-    <!-- Group Setup -->
-    <string name="create_new_setup">Create New Setup</string>
-    <string name="group_subject_hint">Group Subject</string>
-    <string name="select_participants">SELECT PARTICIPANTS (2 SELECTED)</string>
-
     <!-- Conversation Detail -->
-    <string name="e2ee_notice">Messages are end-to-end encrypted. No one outside of this chat can read them.</string>
-    <string name="pinned_conversation">PINNED CONVERSATION</string>
-    <string name="reply_action">Reply</string>
-    <string name="forward_action">Forward</string>
-    <string name="copy_action">Copy</string>
-    <string name="delete_action">Delete</string>
-    <string name="type_secure_message_hint">Write a secure message…</string>
+    <string name="type_message_hint">Type a message…</string>
 
-    <!-- Settings & Profile -->
-    <string name="group_info_title">Group Info</string>
-    <string name="add_participant">+ Add Participant</string>
-    <string name="leave_group">Leave Group</string>
-    <string name="starred_messages_title">Starred Messages</string>
-    <string name="profile_security_title">Profile &amp; Security</string>
+    <!-- Profile -->
     <string name="display_name_label">Display Name</string>
     <string name="status_message_label">Status Message</string>
-    <string name="dark_theme_label">Dark Theme</string>
     <string name="log_out_action">Log Out</string>
 </resources>
